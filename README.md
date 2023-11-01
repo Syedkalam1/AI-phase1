@@ -20,7 +20,7 @@ Ensure you have the following dependencies installed on your system:
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/samrohid/Ai_phase_assignment.git
+git clone https://github.com/Syedkalam1/AI-project-.git
 
 
 # Navigate to the project directory:
